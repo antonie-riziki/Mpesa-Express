@@ -4,7 +4,6 @@ header = st.container()
 body1 = st.container()
 body2 = st.container()
 
-
 with header:
 	st.title('Lipa na Mpesa')
 	st.subheader('Mpesa Express API')
